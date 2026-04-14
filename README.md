@@ -26,8 +26,6 @@ This project implements a complete AR pipeline using only **Python** and **OpenC
 
 ## Demo Video
 
-> Add your demo video link below
-
 ```text
 https://youtu.be/gmDEXAszK9Y
 ```
