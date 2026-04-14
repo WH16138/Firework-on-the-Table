@@ -52,7 +52,7 @@ https://your-demo-video-link-here.com
 
 ---
 
-## File Descriptions
+## Scripts
 
 ### `capture_chessboard.py`
 
@@ -65,7 +65,7 @@ Automatically captures webcam frames containing a valid chessboard pattern.
 
 ---
 
-### `calibrate_camera.py`
+### `calibration.py`
 
 Performs intrinsic camera calibration using the selected chessboard images.
 
@@ -112,7 +112,7 @@ raw_chessboards/
 ### 2. Calibrate Camera
 
 ```bash
-python calibrate_camera.py
+python calibration.py
 ```
 
 Calibration result will be saved as:
@@ -183,22 +183,6 @@ pip install opencv-python numpy
 * Python 3.10+
 * Webcam
 * Printed / Physical Chessboard Pattern
-
----
-
-## Future Improvements
-
-* Sprite-based glow rendering for better performance
-* More firework burst patterns
-* AR object occlusion handling
-* Markerless plane tracking
-* Sound effect integration
-
----
-
-## Author
-
-Created by **[Ju Hyeon Seong]**
 
 ---
 
