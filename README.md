@@ -29,7 +29,7 @@ This project implements a complete AR pipeline using only **Python** and **OpenC
 > Add your demo video link below
 
 ```text
-https://your-demo-video-link-here.com
+https://youtu.be/gmDEXAszK9Y
 ```
 
 ---
